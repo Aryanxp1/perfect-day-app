@@ -5,7 +5,7 @@
 ![Dashboard](screenshots/home.jpeg)
 
 ## 📱 Live Demo
-🔗 **[Try it live](https://ArVishwakarma.github.io/perfect-day-app)**
+🔗 **[Try it live]( https://aryanxp1.github.io/perfect-day-app/)**
 
 ---
 
@@ -148,7 +148,7 @@ npx cap open android
 ## 👤 Author
 
 **Ar Vishwakarma**
-- GitHub: [@ArVishwakarma](https://github.com/ArVishwakarma)
+- GitHub: [@Aryan_Vishwakarma](https://github.com/Aryanxp1)
 
 ---
 
